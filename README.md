@@ -1,2 +1,2 @@
 # PRACTICA-3
-Repositorio para subir el primer control de programación
+Repositorio creado para subir el [tercer]() control de programación, donde se aplican ciertas funciones en data frames para resolver las preguntas
